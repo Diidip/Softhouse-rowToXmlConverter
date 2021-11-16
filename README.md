@@ -1,7 +1,7 @@
 # Softhouse-rowToXmlConverter
 Converts data from a rowbased system to XML
 
-To run program open commandpromp and run "java -jar (jar filepath).java"
+To run program open commandpromp and run "java -jar (jar filepath).jar"
 
 When running the .jar file the user will be prompted to set path for the input data and desired path for output data.
 

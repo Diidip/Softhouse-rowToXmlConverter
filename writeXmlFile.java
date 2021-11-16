@@ -19,12 +19,10 @@ import java.util.Scanner;
  outputs: xml file and xml string in console* */
 public class writeXmlFile {
 	
-	//Windows username and path for creation and storage of Xml data to file
-	static String username = "didri";
 	//path for input rowbased txt dokument
-	static String rowinputPath = "C:\\Users\\" + username + "\\eclipse-workspace\\XML converter\\data.txt";
+	static String rowinputPath ;
 	//path for output xml document to be created
-	static String xmlPath = "C:\\Users\\" + username + "\\eclipse-workspace\\XML converter\\outputXmldata.xml";	
+	static String xmlPath ;	
 	
 	/** adds familymember to documentTree aswell as familymembers phone/adress if available 
 	 * 

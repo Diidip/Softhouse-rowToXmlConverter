@@ -7,5 +7,7 @@ eq "C:\Users\username\Desktop\Input\inputdata.txt"
 
 eq "C:\Users\username\Desktop\Output\data.xml"
 
+An example of an input file is uploaded as "inputdata.txt"
+
 
 
